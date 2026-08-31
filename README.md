@@ -11,10 +11,6 @@ model weights come from that project's GitHub.
 
 **Supervisor:** Asif Khan, Wilfrid Laurier University
 
-## Demo video
-
-_[paste your video link here, YouTube unlisted or Google Drive]_
-
 ---
 
 ## Dataset & model weights
