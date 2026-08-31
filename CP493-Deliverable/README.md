@@ -7,13 +7,13 @@ fine-tuning**. Five models (RCDNet, AT-GAN, Restormer, IDT, DiT) + two cascade o
 This work builds on the **Raindrop Clarity** paper (Jin et al., ECCV 2024). The dataset and most of the
 model weights come from that project's GitHub.
 
-**Author:** Adam · CP493, Wilfrid Laurier University
+**Author:** Adam · rakx0280@mylaurier.ca / adamrak239@gmail.com · CP493, Wilfrid Laurier University
 
 **Supervisor:** Asif Khan, Wilfrid Laurier University
 
 ## Demo video
 
-_[paste your video link here, YouTube unlisted or Google Drive]_
+Video Link: https://youtu.be/_qhx8V6BSnc 
 
 ---
 
